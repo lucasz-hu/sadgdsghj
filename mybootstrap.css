@@ -35,3 +35,12 @@
     height: 15vw;
     object-fit: cover;
 }
+
+.btn-outline-grey {
+    color: #adadad;
+    border-color: #adadad;
+}
+.btn-outline-grey:hover {
+    color: #929292;
+    border-color: #929292;
+}
